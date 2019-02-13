@@ -1,0 +1,16 @@
+/* Flex-end will make the input show in the end */
+
+.Input {
+display: flex;
+height: 4em;
+flex: 1;
+background-color: #292929;
+outline: 1px solid #888;
+color: #fff;
+justify-content: flex-end;
+padding: 0.5em;
+font-weight: bold;
+font-size: 1.4em;
+align-items: center;
+font-family: 'Orbitron';
+}
